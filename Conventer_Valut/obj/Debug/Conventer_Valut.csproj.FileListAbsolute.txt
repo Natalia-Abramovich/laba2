@@ -1,0 +1,21 @@
+c:\users\юлия\documents\visual studio 2013\Projects\Conventer_Valut\Conventer_Valut\bin\Debug\Conventer_Valut.exe.config
+C:\Users\Юлия\documents\visual studio 2013\Projects\Conventer_Valut\Conventer_Valut\bin\Debug\Conventer_Valut.exe
+C:\Users\Юлия\documents\visual studio 2013\Projects\Conventer_Valut\Conventer_Valut\bin\Debug\Conventer_Valut.pdb
+C:\Users\Юлия\documents\visual studio 2013\Projects\Conventer_Valut\Conventer_Valut\obj\Debug\Conventer_Valut.csprojResolveAssemblyReference.cache
+C:\Users\Юлия\documents\visual studio 2013\Projects\Conventer_Valut\Conventer_Valut\obj\Debug\Conventer_Valut.Form1.resources
+C:\Users\Юлия\documents\visual studio 2013\Projects\Conventer_Valut\Conventer_Valut\obj\Debug\Conventer_Valut.Properties.Resources.resources
+C:\Users\Юлия\documents\visual studio 2013\Projects\Conventer_Valut\Conventer_Valut\obj\Debug\Conventer_Valut.csproj.GenerateResource.Cache
+C:\Users\Юлия\documents\visual studio 2013\Projects\Conventer_Valut\Conventer_Valut\obj\Debug\Conventer_Valut.exe
+C:\Users\Юлия\documents\visual studio 2013\Projects\Conventer_Valut\Conventer_Valut\obj\Debug\Conventer_Valut.pdb
+C:\Users\Natali\Desktop\Conventer_Valut\Conventer_Valut\bin\Debug\Conventer_Valut.exe.config
+C:\Users\Natali\Desktop\Conventer_Valut\Conventer_Valut\obj\Debug\Conventer_Valut.exe
+C:\Users\Natali\Desktop\Conventer_Valut\Conventer_Valut\obj\Debug\Conventer_Valut.pdb
+C:\Users\Natali\Desktop\Conventer_Valut\Conventer_Valut\bin\Debug\Conventer_Valut.exe
+C:\Users\Natali\Desktop\Conventer_Valut\Conventer_Valut\bin\Debug\Conventer_Valut.pdb
+C:\Users\Natali\Desktop\Conventer_Valut\Conventer_Valut\obj\Debug\Conventer_Valut.csprojResolveAssemblyReference.cache
+C:\Users\Natali\Desktop\Conventer_Valut\Conventer_Valut\obj\Debug\Conventer_Valut.Form1.resources
+C:\Users\Natali\Desktop\Conventer_Valut\Conventer_Valut\obj\Debug\Conventer_Valut.Properties.Resources.resources
+C:\Users\Natali\Desktop\Conventer_Valut\Conventer_Valut\obj\Debug\Conventer_Valut.csproj.GenerateResource.Cache
+C:\Users\Natali\Desktop\тритпо_Conventer_Valut\Conventer_Valut\bin\Debug\Conventer_Valut.exe.config
+C:\Users\Natali\Desktop\тритпо_Conventer_Valut\Conventer_Valut\obj\Debug\Conventer_Valut.exe
+C:\Users\Natali\Desktop\тритпо_Conventer_Valut\Conventer_Valut\obj\Debug\Conventer_Valut.pdb
